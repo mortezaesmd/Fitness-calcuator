@@ -182,7 +182,3 @@ while n == 1:
             break
         else:
             print('ERROR!!!\nChoose an option: ')
-
-
-def testtest():
-    print('test')
